@@ -4,7 +4,7 @@
 
 Получаем данные из input, select, radio, checkbox, textarea, form на JavaScript. Учимся управлять элементами на JS
 ### Посмотреть видеоурок на Youtube
-https://youtu.be/UsLpqTXd5vs
+https://youtu.be/TbkL329h5bg
 [![Посмотреть видео](https://github.com/itgidinfo/get_data_js/blob/master/images/cover.png?raw=true)](https://youtu.be/TbkL329h5bg)
 
 ### Курсы ItGid.info
